@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.06-2359",
+ "published": "2026-11-06 23:59:23",
+ "notes": "Caisses partagees : une caisse cassee chez un joueur se casse chez tous / Shared boxes",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "1a53c0486346322a91f66fb1f69874a3127af2bc54e907e5ea27e56832f0cb12",
+   "size": 8817470,
+   "jar_sha256": "5825d4c3fb07346f13b10017d66b3cf7704cc2e5dc0ea0a4a586aee537d29701"
+  }
+ }
+}
