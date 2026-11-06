@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.06-1641",
+ "published": "2026-11-06 16:42:09",
+ "notes": "V0.1.1: moving Knuckles and Chaos, shared save and checkpoints, smoother players, crash fixes, test channel password.",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "2d9f82b9092833d65fe2d0d854de35ae93a6ccf2ed8d4c0dbb55ff8c203d3b24",
+   "size": 8811063,
+   "jar_sha256": "c621f9651c065a52c63921c4499fca3f6f106c980c27b096564dc353df369be2"
+  }
+ }
+}
