@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.14-1719",
+ "published": "2026-11-14 17:19:46",
+ "notes": "Correctifs de crash, nouvelle version",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "3b32312578add9446d368032483058c115d8a22330ced3228d15c5c69f747e22",
+   "size": 8880293,
+   "jar_sha256": "2b426c7d3f3ff3b68b1e6eb84ad6fadd8a9d82232fb4ebafe5ca521f0c6a36db"
+  }
+ }
+}
