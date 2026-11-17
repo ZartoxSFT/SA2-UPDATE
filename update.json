@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.18-0055",
+ "published": "2026-11-18 00:55:19",
+ "notes": "Correctif : page Personnages avec certains skins",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "5446b0db4ea1b6485d2835c05ec03e8ffab578514802af57d6e7b20f85c6e6a8",
+   "size": 8882367,
+   "jar_sha256": "505649790ecea55f10c8b7a4b2bf7d89c99fc4ac875afe2738abb2f00fba75e3"
+  }
+ }
+}
