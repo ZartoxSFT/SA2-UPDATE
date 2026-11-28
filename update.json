@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.28-1518",
+ "published": "2026-11-28 15:18:17",
+ "notes": "Couleur des effets, perso dans le jardin Chao et niveaux custom en solo r\u00e9serv\u00e9s \u00e0 Patreon.",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "b548327de115aa9cbabea39643c98367400db196ced6dd7af539c9defa476922",
+   "size": 8922301,
+   "jar_sha256": "ea835e68493c66dfc716f28023fb25b3eeff5d250fb0a16b75bc07a71ed9deba"
+  }
+ }
+}
